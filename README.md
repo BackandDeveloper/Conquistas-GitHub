@@ -10,7 +10,8 @@ Para conseguir a conquista Pull Shark, você precisa criar uma pull request e me
 Para obter a conquista YOLO, você deve abrir uma pull request e fechá-la dentro de 5 minutos, além de deletar a branch.
 
 <img width="148" alt="68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f70726f66696c652f616368696576656d656e74732f796f6c6f2d64656661756c742e706e67" src="https://github.com/user-attachments/assets/cc25e052-8505-44f3-92f1-d4de63940125" />
- ## Quickdraw
+
+## Quickdraw
 Para conseguir a conquista Quickdraw, você precisa habilitar discussões no seu repositório e criar uma pergunta ou responder uma. É necessário fazer isso duas vezes para obter a conquista.
 
 <img width="148" alt="68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f70726f66696c652f616368696576656d656e74732f7374617273747275636b2d64656661756c742e706e67" src="https://github.com/user-attachments/assets/d503d7c3-c5ad-49c2-ba66-edd22b406daa" />
