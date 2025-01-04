@@ -55,6 +55,8 @@ alt="68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d6167657
 
 ## Takeoff
 
+Para consegui-la, você precisa realizar o primeiro voo com o helicóptero Ingenuity em Marte no jogo Kerbal Space Programa.
+
 <img width="148"
 alt="mars-2020-contributor-default" src="https://github.com/user-attachments/assets/f98be2be-11a7-4a5d-ad8c-c34363fb54cb" />
 
