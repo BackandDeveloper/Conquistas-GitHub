@@ -26,7 +26,7 @@ Para conseguir a conquista Pair Extraordinaire, você deve criar um commit com o
 
 <img width="148" alt="quickdraw-default" src="https://github.com/user-attachments/assets/96e8e7a0-3316-4e87-956c-124ac48e9375" />
 
-Starstruck
+## Starstruck
 Para obter a conquista Starstruck, você precisa criar um repositório que receba 16 estrelas ou mais.
 
 <img width="148" alt="mars-2020-contributor-default" src="https://github.com/user-attachments/assets/f98be2be-11a7-4a5d-ad8c-c34363fb54cb" />
