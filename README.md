@@ -1,4 +1,4 @@
-
+## Neste repositório, você vai conhcecer todas às conquistas no GitHub, e como coletar cada uma delas: 
 
 
 ## Pull Shark: 
