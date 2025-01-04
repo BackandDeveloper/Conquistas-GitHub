@@ -1,6 +1,4 @@
 
-<img width="148" alt="arctic-code-vault-contributor-default" src="https://github.com/user-attachments/assets/3c4f9d69-6ef0-41ff-8118-9fd653b3d64c" />
-
 
 
 ## Pull Shark: 
