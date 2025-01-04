@@ -30,8 +30,6 @@ Para conseguir a conquista Pair Extraordinaire, você deve criar um commit com o
 Para obter a conquista Starstruck, você precisa criar um repositório que receba 16 estrelas ou mais.
 
 <img width="148" alt="68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f70726f66696c652f616368696576656d656e74732f7374617273747275636b2d64656661756c742e706e67" src="https://github.com/user-attachments/assets/d503d7c3-c5ad-49c2-ba66-edd22b406daa" />
-<img width="148"
-alt="mars-2020-contributor-default" src="https://github.com/user-attachments/assets/f98be2be-11a7-4a5d-ad8c-c34363fb54cb" />
 
 ## Public Sponsor
 Para conseguir a conquista Public Sponsor, você deve patrocinar um trabalho de código aberto via GitHub Sponsors. O valor mínimo é de 5 dólares.
