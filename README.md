@@ -31,7 +31,7 @@ Para obter a conquista Starstruck, você precisa criar um repositório que receb
 
 <img width="148" alt="mars-2020-contributor-default" src="https://github.com/user-attachments/assets/f98be2be-11a7-4a5d-ad8c-c34363fb54cb" />
 
-Public Sponsor
+## Public Sponsor
 Para conseguir a conquista Public Sponsor, você deve patrocinar um trabalho de código aberto via GitHub Sponsors. O valor mínimo é de 5 dólares.
 
 <img width="148" alt="arctic-code-vault-contributor-default" src="https://github.com/user-attachments/assets/3c4f9d69-6ef0-41ff-8118-9fd653b3d64c" />
