@@ -48,6 +48,8 @@ Outra conquista rara que não pode mais ser obtida. Foi concedida a quem contrib
 
 Stargazer
 
+Essa conquista é conhecida como "Feiticeiro do Código" e pode ser obtida ao completar um desafio ou tarefa específica relacionada à programação, como resolver um problema complexo de codificação ou participar de um evento de hackathon.
+
 <img width="148" 
 alt="68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f70726f66696c652f616368696576656d656e74732f68656172742d6f6e2d796f75722d736c656576652d64656661756c742e706e67" src="https://github.com/user-attachments/assets/235c1fe2-45bb-4db2-bc5e-7acf5815cb25" />
 
