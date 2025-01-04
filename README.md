@@ -1,2 +1,2 @@
-# Conquistas-GitHub
-Nesse repositório, contém quais são às conquistas que se podem obter, para ter no seu perfil no GitHUb. E de maneira detalhada de como conseguir conquistar cada uma delas! 
+Pull Shark
+Para conseguir a conquista Pull Shark, você precisa criar uma pull request e mesclá-la sem esperar por uma revisão.
