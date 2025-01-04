@@ -1,5 +1,7 @@
 ## Neste repositório, você vai conhcecer todas às conquistas no GitHub, e como coletar cada uma delas: 
 
+  No total, são X conquistas disponíveis para serem coletadas no GitHub. Já que às outras, não estão mais disponíveis para serem coletadas. Primeiramente, vai ter o nome da conquista, em seguida, uma imagem de conquista, e em seguida, e explicação de como coleta-la!
+
 
 ## Pull Shark: 
 Para conseguir a conquista Pull Shark, você precisa criar uma pull request e mesclá-la sem esperar por uma revisão.
