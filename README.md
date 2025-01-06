@@ -48,7 +48,6 @@ Outra conquista rara que não pode mais ser obtida. Foi concedida a quem contrib
 
 <img width="148" alt="arctic-code-vault-contributor-default" src="https://github.com/user-attachments/assets/3c4f9d69-6ef0-41ff-8118-9fd653b3d64c" />
 
-
 ## Stargazer
 Essa conquista é conhecida como "Feiticeiro do Código" e pode ser obtida ao completar um desafio ou tarefa específica relacionada à programação, como resolver um problema complexo de codificação ou participar de um evento de hackathon.
 
