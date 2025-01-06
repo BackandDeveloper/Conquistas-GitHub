@@ -40,7 +40,7 @@ Para conseguir a conquista Public Sponsor, você deve patrocinar um trabalho de 
 
 <img width="148" alt="68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f70726f66696c652f616368696576656d656e74732f7075626c69632d73706f6e736f722d64656661756c742e706e67" src="https://github.com/user-attachments/assets/c0444b71-131e-4976-9901-1e36bf75c37f" />
 
-## Dois em um
+## 
 Essa é uma conquista rara e não pode mais ser obtida. Ela foi concedida a quem contribuiu com código para repositórios no programa GitHub Archive de 2020.
 
 <img width="148" alt="68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f70726f66696c652f616368696576656d656e74732f706169722d65787472616f7264696e616972652d64656661756c742e706e67" src="https://github.com/user-attachments/assets/12da8b6e-1816-4808-9907-1a2f3ba679b7" />
