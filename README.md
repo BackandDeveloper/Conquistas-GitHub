@@ -21,7 +21,7 @@ Para conseguir a conquista Quickdraw, você precisa habilitar discussões no seu
 ## Galaxy Brain
 Para obter a conquista Galaxy Brain, você precisa mesclar uma pull request de um repositório forkado.
 
-<img 
+
 
 ## Pair Extraordinaire
 Para conseguir a conquista Pair Extraordinaire, você deve criar um commit com outra pessoa como co-autora. Adicione a tag Co-authored-by: seguida do apelido e e-mail da outra pessoa.
