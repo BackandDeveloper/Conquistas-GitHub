@@ -64,7 +64,7 @@ Para obter essa conquista, você precisa completar um desafio ou tarefa específ
 
 ## 📑| Conclusão
 
- Se você seguir
+ Se você seguir o
 
 ## Contato
 
